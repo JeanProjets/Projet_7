@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Mac extension
+.DS_Store
+
+#Mon fichier excel de suivi du temps
+.xlsx
+
+#dossiers
+data/
+archive/
+
 # Distribution / packaging
 .Python
 build/
